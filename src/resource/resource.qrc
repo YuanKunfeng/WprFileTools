@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="trayIco">images/icon.ico</file>
+        <file alias="icon">images/icon.png</file>
+        <file alias="groupboxTitle">images/groupbox_title.png</file>
+        <file alias="checkbox_checked_disable">images/checkbox_checked_disable.png</file>
+        <file alias="checkbox_checked_enable">images/checkbox_checked_enable.png</file>
+        <file alias="checkbox_unchecked_disable">images/checkbox_unchecked_disable.png</file>
+        <file alias="checkbox_unchecked_enable">images/checkbox_unchecked_enable.png</file>
+        <file alias="menu">images/menu.png</file>
+        <file alias="sys_button_close">images/sys_button_close.png</file>
+        <file alias="sys_button_min">images/sys_button_min.png</file>
+        <file alias="msgCheck">images/msgCheck.png</file>
+        <file alias="msgError">images/msgError.png</file>
+        <file alias="msgInfo">images/msgInfo.png</file>
+        <file alias="msgQuestion">images/msgQuestion.png</file>
+        <file alias="msgWarning">images/msgWarning.png</file>
+        <file alias="widget_shadow_left">images/widget_shadow_left.png</file>
+        <file alias="widget_shadow_leftbottom">images/widget_shadow_leftbottom.png</file>
+        <file alias="widget_shadow_lefttop">images/widget_shadow_lefttop.png</file>
+        <file alias="widget_shadow_right">images/widget_shadow_right.png</file>
+        <file alias="widget_shadow_rightbottom">images/widget_shadow_rightbottom.png</file>
+        <file alias="widget_shadow_righttop">images/widget_shadow_righttop.png</file>
+        <file alias="widget_shadow_top">images/widget_shadow_top.png</file>
+        <file alias="widget_shadow_bottom">images/widget_shadow_bottom.png</file>
+        <file alias="sys_button_question">images/sys_button_question.png</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file alias="default">styles/default.qss</file>
+    </qresource>
+</RCC>
